@@ -1,0 +1,7 @@
+# Visual Studio cache and temporary files
+.vs/
+**/.vs/
+
+# Build output
+bin/
+obj/
